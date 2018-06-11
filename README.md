@@ -1,4 +1,4 @@
-Website under construction. You can refer to [wiki.glidernet.org](http://wiki.glidernet.org) for the time being.
+Website under construction. You can refer to [wiki.ogn.aero](http://wiki.ogn.aero) for the time being.
 
 # Welcome to the OGN project!
 
